@@ -1,0 +1,5 @@
+name: ItemCooldown
+author: CrackerFR
+version: 1.0
+main: ItemCooldown\Main
+api: 4.0.0
