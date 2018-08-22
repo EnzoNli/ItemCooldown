@@ -1,0 +1,52 @@
+---
+
+# Config for ItemCooldown by CrackerFR:
+
+# For the moment you can only put a cooldown on one item
+
+
+
+# You must enter the item ID
+
+item: 369
+
+seconds-cooldown: 90
+
+# Here is the list of the available effects as well as their corresponding number:
+# SPEED = 1
+# SLOWNESS = 2
+# HASTE = 3
+# MINING FATIGUE = 4
+# STRENGTH = 5
+# INSTANT HEALTH = 6
+# INSTANT DAMAGE = 7
+# JUMP BOOST = 8
+# NAUSEA = 9
+# REGENERATION = 10
+# RESISTANCE = 11
+# FIRE RESISTANCE = 12
+# WATER BREATHING = 13
+# INVISIBILITY = 14
+# BLINDNESS = 15
+# NIGHT VISION = 16
+# HUNGER = 17
+# WEAKNESS = 18
+# POISON = 19
+# WITHER = 20
+# HEALTH BOOST = 21
+# ABSORPTION = 22
+# SATURATION = 23
+# FATAL POISON = 25
+# CONDUIT POWER = 26
+
+effect: 1
+
+seconds-effect: 15
+
+amplifier: 2
+
+ #For particle-visible you must choose between true or false. 
+# This parameter is used to display or not the particles.
+
+particles-visible: true
+...
