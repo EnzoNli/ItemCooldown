@@ -4,8 +4,8 @@
 A mcpe plugin that allows to add an item an effect with a cooldown !
 
 ## Features:
-    - [ ] More Items
-    - [ ] Levitation Effect
+- [ ] More Items
+- [ ] Levitation Effect
     
 ## Installation:
 * [PocketMine](https://jenkins.pmmp.io/job/PHP-7.2-Aggregate/) - HOH work only with PocketMine software.
