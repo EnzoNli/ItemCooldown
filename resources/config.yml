@@ -45,7 +45,7 @@ seconds-effect: 15
 
 amplifier: 2
 
- #For particle-visible you must choose between true or false. 
+# For particle-visible you must choose between true or false. 
 # This parameter is used to display or not the particles.
 
 particles-visible: true
